@@ -33,5 +33,8 @@ The executable file is "**qrencode**".
 Get the source code from the Kentaro Fukuchi website: http://fukuchi.org/works/qrencode/
 
 <br>
+##### How to compile standalone (portable) on Windows
+https://github.com/valterfukuoka/qrencodecompilewindows
 
+<br>
 
