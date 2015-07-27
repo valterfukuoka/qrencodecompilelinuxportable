@@ -21,7 +21,7 @@
 4 - Run "make"
 > make
 
-Run "make install"
+5 - Run "make install"
 > make install
 
 The resulting standalone (portable) binary will be on the */myDestination/FolderOf/Binary/***bin/** folder.
